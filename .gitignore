@@ -5,3 +5,5 @@ env/
 *.png
 *.xml
 *.txt
+*.tar
+*.labels
